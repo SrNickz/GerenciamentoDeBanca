@@ -1,0 +1,18 @@
+Controle de Banca v3.5.19 — Projeto completo
+
+Abra index.html no navegador ou publique estes arquivos juntos em uma hospedagem estática.
+
+Arquivos: index.html (estrutura), style.css (estilo), charts-lite.js (gráficos), script.js (funções e armazenamento).
+
+Os dados ficam salvos no armazenamento local do navegador utilizado. Exporte um backup antes de trocar de dispositivo ou limpar os dados do navegador.
+
+Novidade: transição suave ao criar operações, sessões, jogos, depósitos, saques, notas, metas e quadros.
+
+Versão 3.5.17: seis animações de criação configuráveis; evita acumular efeitos de clique ao navegar rapidamente.
+
+Versão 3.5.18: efeitos de fundo sem saltos ao redimensionar; quadros sincronizados ao monitor; partículas preservadas ao alterar força/velocidade/tamanho.
+
+Versão 3.5.19: recolhimento dos meses e anos sem sobras de dias ou espaçamento, mantendo transição suave.
+
+
+VERSÃO 3.5.20: Animar criação de novos elementos com efeitos 3D profundos, lados configuráveis, força/profundidade/velocidade; animação ao excluir com 7 estilos e partículas personalizáveis.
